@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "59a9fa14c9a4d9bdfe62852f",
+  "owner": "tajavaq",
+  "repo": "page-bf548bb06d77071ff9a2c437",
+  "title": "雕云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bf548bb06d77071ff9a2c437",
+      "a": "雕云",
+      "b": "机场官网线路发布页",
+      "entity": "雕云",
+      "brand": "雕云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "19cf59a8b045a9ec6e5201ddda215b74712add60de18570ee59294c53ec2f561",
+      "content": {
+        "primary_entity": "雕云",
+        "keyword1": "雕云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，雕云面向需要稳定海外网络连接的用户，提供从基础到团队的多档套餐选择。每月流量从 100GB 到 1000GB，支持设备数从 3 台到 20 台，年付价格更优惠。订阅配置流程清晰，用户可根据设备数量与用途选择合适方案，并按客户端文档导入订阅使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "雕云提供多档海外加速套餐，覆盖个人与团队使用场景。基础版适合轻度浏览，旗舰版兼顾流媒体与游戏加速，团队版支持多设备高带宽。用户可根据每月流量与在线设备数对比选择，按年付更省费用。",
+          "AI_VISUAL_TITLE": "雕云套餐对比一览",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更省",
+          "AI_HIGHLIGHT_2": "设备数从 3 台到 20 台",
+          "AI_HIGHLIGHT_3": "支持订阅导入常用客户端",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "选套餐时先看设备数量与月流量，再按周期决定月付或年付。",
+          "AI_FEATURE_TITLE_1": "按设备数选档位",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，覆盖手机、电脑与平板同时在线。",
+          "AI_FEATURE_TITLE_2": "订阅周期与价格",
+          "AI_FEATURE_TEXT_2": "基础版月付 15 元或年付 150 元，旗舰版月付 35 元或年付 350 元，团队版月付 85 元或年付 850 元。",
+          "AI_FEATURE_TITLE_3": "按用途区分线路",
+          "AI_FEATURE_TEXT_3": "基础版提供普通线路，旗舰版含 IPLC 专线与流媒体解锁，团队版有 VIP 高带宽节点与企业定制路由。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，按设备类型选择并参照客户端文档导入订阅即可。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备，适合轻度使用；旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，配 VIP 节点与专属经理。按年付分别约 150 元、350 元、850 元。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "先确认设备数量与月流量需求，再对比套餐，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TEXT_1": "统计需要同时在线的设备数量和每月大致流量，用于匹配基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看套餐适配",
+          "AI_STEP_TEXT_2": "对照各档位的设备数、流量、线路类型与价格，确认是否满足流媒体或游戏加速等用途。",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中依照对应文档导入订阅信息，完成配置后即可在设备上使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "雕云支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_1": "常见手机、电脑与平板系统均有对应客户端，可按设备类型选择，并参照客户端文档导入订阅使用。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线，超出后需要调整套餐。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 15 元、年付 150 元，旗舰版月付 35 元、年付 350 元，团队版月付 85 元、年付 850 元，年付相当于十个月价格。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的线路有什么区别？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版提供 IPLC 专线并做游戏加速优化，同时支持全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量，支持 20 台设备，含 VIP 高带宽节点、企业定制路由与专属客户经理，适合多人协作使用。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_CLOSING_TEXT": "按设备数与流量对比三档套餐，选定后依照客户端文档导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tzslbjx.com",
+    "host": "tzslbjx.com"
+  },
+  "file_hashes": {
+    "index.html": "0f0f1fbb0fc588893e1af15b693b73c66825610e9ab86e82f0f20cfacef2f034",
+    "sitemap.xml": "61c29d48e08f863a173cdaae38d9128e327682c56b953aff8d8675a3906d340f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f291cf5c97d6e53bd126e493d4a6c866cba6bf60f64fd05b0de2326ebf99ab3b",
+    "robots.txt": "e936b9a397e54902b275296c8a150108f35cf533de10d89383753736d3ab8dc0",
+    "1d19f15b6f1006b4ab3601b4bb3a0b80.txt": "96bca659cf63b320c71111f0dbf3de9bb94966625d3114f9b925371d6ee7ae12"
+  },
+  "revision": "238d13d1be0611016199b76f2df6f62bbe4f115415fcd5d6ef57e455cc8c4b9b"
+}
